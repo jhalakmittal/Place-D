@@ -1,0 +1,26 @@
+#eccard{
+    width: 70%;
+    float: none;
+    justify-content: center;
+    margin-left: 15%;
+    margin-top:60px;
+}
+/* #ecf{
+   width:30%
+} */
+#ecta{
+    width:400px;
+}
+#ecl{
+    width:300px;
+    float: left;
+    margin-left: 0%;
+    
+}
+#ect{
+    width:400px;
+    
+}
+#ecb{
+    width:30%;
+}

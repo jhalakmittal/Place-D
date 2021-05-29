@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+h3{
+    font-size: 24px;
+    color: #A06EC4;
+    font-weight: bold;
+}
+img{
+    margin-top: -50px;
+}
+p{
+    font-weight: 500px;
+}
+#ie-card{
+    border-radius: 0;
+    box-shadow: 5px 5px 10px #CBA9EF;
+    margin-left:50px;
+    margin-bottom: 50px;
+
+    /* margin-right: 50px; */
+    padding-left: 10px;
+    transition: all 0.3s ease-in;
+    -webkit-transition: all 0.3s ease-in;
+}
+#ie-card:hover{
+    background: #A06EC4;
+    color: #fff;
+    border-radius: 5px;
+    border : none;
+
+}
+#ie-card:hover h3{
+    color: black;
+}
+#del{
+    background-color: rgb(226, 51, 51);
+    width: 50%;
+}
+#edt{
+      border:0px ;
+       color : rgb(90, 15, 133) ;
+        background-color:#CBA9EF;
+        width:50%;
+
+}
+#edt-btn{
+    margin-bottom: 10px ;
+    color : rgb(90, 15, 133); 
+    background-color:#CBA9EF ;
+     border:0px;
+     width:50%
+}

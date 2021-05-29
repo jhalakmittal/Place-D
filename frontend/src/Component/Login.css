@@ -1,0 +1,12 @@
+body{
+    background-color:black;
+    /* background-size: 100%; */
+    background-repeat: no-repeat;
+}
+
+#paperStyle { padding: 20;height: '73vh';width: 300; margin: "20px auto"; font-size: '25px'  }
+#avatarStyle { background-color: '#A06EC4'; margin: "10px" }
+    /* const headerStyle = { margin: "5px" }
+    const chckboxstyle = { marginLeft: "-156px" }
+    const linkstyle = { marginLeft: "-20px" }
+    const btnstyle = { margin: "8px 0" } */

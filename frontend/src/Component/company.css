@@ -1,0 +1,62 @@
+.legend{
+  display:block;
+  float:right;
+  height:auto;
+  text-align:center;
+  font-size:9px;
+  opacity: 0.2;
+  margin-left: 70%;
+}
+#com{
+  margin-left: 10px;
+  border-width: 5px;
+  border-color: deeppink;
+  box-shadow:9px 13px 15px -2px rgb(248, 177, 154) ;
+  width:98%;
+
+}
+.map-legends.wax-legends {
+  background: rgba(80,80,0,0.1);
+}
+.image{
+  height: 467px;
+  width: 100%;
+
+
+}
+.img{
+  border:2px;
+  border-color:violet
+}
+.wrapper-users{
+  border-color: black;
+}
+.table{
+  background-color:#B686E9;
+  align-self: right;
+  float:right;
+  border: 10px;
+  border-color: black;
+  width:60%;
+  box-shadow:-3px 11px 18px #8347AE;
+  margin-right:3%;
+  border-width:25px;
+}
+.tab-th{
+  text-align: center;
+  background-color:#A164E3;
+  border-color:white;
+  font-size:large;
+}
+th{
+  width:300px
+}
+.tr{
+  border-color: black;
+  height:90px;
+  font-size: large;
+  text-align: center;
+}
+.caption{
+  color:black
+};

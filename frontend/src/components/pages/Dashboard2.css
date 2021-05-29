@@ -1,0 +1,32 @@
+:root{
+    --primar:#f8b5d2;
+}
+@media screen and (max-width:600px){
+    .btn--responsive{
+        width:40%;
+        margin-left: 10%;
+    }
+}
+    #btn--medium {
+        margin-left: 10%;
+        margin-bottom: 5%;
+        background-color: var(--primar);
+        color:#242424;
+        border-radius: 12px;
+        border:1px solid var(--primar);
+        height:80px;
+        width:25%;
+        font-size:large;
+        box-shadow: 0px 13px 10px -5px rgba(0, 0,0, 1);
+        font:bold;
+    }
+    #btn--medium {
+        cursor: pointer;
+    }
+#btn--medium:hover {
+    background:white;
+    color:#242424;
+    transition: all 0.3s ease-out;
+    box-shadow: 0px 30px 18px -8px rgba(0, 0,0, 0.1);
+    transform: scale(1.05,1.05);
+}

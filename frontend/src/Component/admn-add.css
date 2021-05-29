@@ -1,0 +1,35 @@
+/* .btn-success{
+    float: right;
+    border-radius: 7px;
+    width:70px;
+    height:30px;
+    background-color:#EBE0F5;
+    color: black;
+    border-color: #6D3B91;
+} */
+    .Modal {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .paper {
+        /* background-color: theme.palette.paper; */
+        border: 2px solid #000;
+        /* boxShadow: shadows[5]; */
+        padding: spacing(2, 4, 3);
+    }
+.float-left{
+    float: left;
+    height: 30px;
+    width:150px;
+}
+
+.txt{
+    float:inline-end;
+    height: 30px;
+    width:160px;
+}
+.txtarea{
+    height: 70px;
+    width:250px;
+}

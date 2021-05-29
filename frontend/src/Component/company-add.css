@@ -1,0 +1,21 @@
+#af-l{
+    float:left;
+    width:100px;
+    margin-bottom: 10px !important;;
+    
+    
+}
+#af-in{
+    float:right;
+    margin:10px !important;
+    height: 30px !important;
+    width:160px !important;
+}
+.txt{
+    float:inline-end;
+    
+}
+.txtarea{
+    height: 70px;
+    width:250px;
+}

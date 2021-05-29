@@ -1,0 +1,86 @@
+*{
+  align-items: center;
+}
+.row-click:hover{
+  background-color: #EBE0F5;
+  color: #FFF;
+  cursor:pointer;
+  color: black;
+  font-weight: bold;
+}
+
+.row-click:after{
+  background-color: #FCDAE8;
+  color:black;
+  font-weight: 500;
+}
+
+.main{
+  padding:20px;
+}
+#cname{
+  text-decoration: none;
+  color:#8347AE;
+  font-size: larger;
+  font-weight: bolder;
+}
+#cq-table{
+align-self:center;
+padding-right:210px !important;
+color: black;
+}
+.table thead th{
+  background-color: #CBA9EF;
+  position: sticky; top: 0; z-index: 1;
+}
+.table tbody{
+  overflow-y: auto;
+  overflow-x:hidden;
+}
+.main .container table tbody a{
+  text-decoration: none;
+}
+.table {
+  padding-top: 20px;
+  margin-right: 10% !important;
+  align-items: center !important;
+}
+/* #scrollable{
+  overflow-y:scroll;
+  height: 350px;
+} */
+button{
+  color:#FFF;
+  font-weight: bold;
+}
+
+button{
+  padding:5px;
+}
+
+.main button a{
+  text-decoration: none;
+  color: #FFF;
+  font-weight: bold;
+}
+.main button a:hover{
+  color: black;
+  font-weight: bold;
+}
+
+
+
+@media only screen and (max-width: 415px) {
+  
+  .main .container table tbody a{
+      display: flex;
+      flex-direction: column;
+      flex-wrap: wrap;
+      height:fit-content;
+      width: fit-content;
+  }
+  .main .container table tbody i{
+    justify-content: center;
+    font-size: medium;
+  }
+}
