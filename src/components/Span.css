@@ -1,0 +1,15 @@
+.logo{
+    color: aliceblue;
+    font-weight: 900;
+    padding-left:20px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    font-size: 1em;
+    justify-content: center;
+  }
+  span{
+   
+    background: -webkit-radial-gradient(rgb(79, 28, 92), rgb(245, 243, 247), rgb(111, 53, 122));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
